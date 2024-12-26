@@ -1,0 +1,9 @@
+span{
+  border: 1px solid #a5e7ae;
+  background-color: #dbf4de;
+  color: #406f3b;
+  text-align: center;
+}
+.hover\:rotate-360:hover {
+  transform: rotate(360deg);
+}
